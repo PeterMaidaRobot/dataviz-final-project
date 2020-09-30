@@ -11,11 +11,14 @@ Data World
 
 ## Prototypes
 
-I’ve created a proof of concept visualization of this data. It's a ... and it shows ...
+I’ve created a proof of concept visualization of this data. It's a bar graph and it shows the number of firearm deaths over time, split among sex.
 
-[![image](https://user-images.githubusercontent.com/68416/65240758-9ef6c980-daff-11e9-9ffa-e35fc62683d2.png)](https://beta.vizhub.com/curran/eab039ad1765433cb51aad167d9deae4)
+[<img width="956" alt="Screen Shot 2020-09-30 at 12 13 58 AM" src="https://user-images.githubusercontent.com/23406389/94642389-f783a980-02b1-11eb-8d6a-afa3d0f93256.png">](https://vizhub.com/PeterMaidaRobot/35ffbebba3f14ef295ee210de4d77c15)
 
-(please put a screenshot of one or more visualizations of this dataset you already made, for previous assignments)
+I've also created a stacked bar/"line" graph that shows the numbers of deaths over time broken down by each cause.
+
+[<img width="954" alt="Screen Shot 2020-09-30 at 12 14 10 AM" src="https://user-images.githubusercontent.com/23406389/94642413-0702f280-02b2-11eb-82e4-52aefb5ddc88.png">](https://vizhub.com/PeterMaidaRobot/a262ae234afd4ab59cae693467e000c4)
+
 
 ## Questions & Tasks
 
@@ -33,8 +36,11 @@ The following tasks and questions will drive the visualization and interaction d
 
 ## Sketches
 
-(insert one or more hand-drawn sketches of interactive visualizations that you imagine)
-(describe each sketch - how is the data visualized, what are the interactions, and how do these relate to the questions/tasks)
+![Sketch2](https://user-images.githubusercontent.com/23406389/94642146-57c61b80-02b1-11eb-98e3-1a1147c8d103.png)
+
+On the top of this sketch, we can see the amount of deaths over time, along with the breakdown into various categories.
+On the bottom of this sketch, we can see donut chart breakdowns across various groups.
+
 
 ## Open Questions
 
