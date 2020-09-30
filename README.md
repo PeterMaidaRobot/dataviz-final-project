@@ -2,7 +2,12 @@
 
 ## Data
 
-The data I propose to visualize for my project is ...
+This data shows the number of deaths by suicide, firearms, and alcohol based on age group, race, and sex.
+
+Source:
+Data World
+[Suicide Deaths by Age, Race, and Sex](https://data.world/healthdatany/j6fz-a4ta/workspace/file?filename=vital-statistics-suicide-deaths-by-age-group-race-ethnicity-resident-county-region-and-gender-beginn-1.csv)
+
 
 ## Prototypes
 
@@ -16,10 +21,15 @@ I’ve created a proof of concept visualization of this data. It's a ... and it 
 
 The following tasks and questions will drive the visualization and interaction decisions for this project:
 
- * (insert your question or task here) How does the X vary over time?
- * (insert your question or task here) Is there any correlation between X and Y?
- * (insert your question or task here) Are there interesting spatial patterns in X?
- * (insert your question or task here) How many X are there across different Y?
+ * What ages have the highest suicide rates?
+ * What ethnicities have the highest suicide rates?
+ * What ages have the highest firearm deaths?
+ * What ethnicities have the highest firearm deaths?
+ * What ages have the highest alchol-related deaths?
+ * What ethnicities have the highest alchol-related deaths?
+ * How does sex relate to the type of death (firearm, alchol, suicide)?
+ * How do these trends change over time? Do death rates go up or down for certain groups?
+
 
 ## Sketches
 
@@ -28,4 +38,4 @@ The following tasks and questions will drive the visualization and interaction d
 
 ## Open Questions
 
-(describe any fear, uncertainty, or doubt you’re having about the feasibility of implementing the sketched system. For example, “I’m not sure where to get the geographic shapes to build a map from this data” or “I don’t know how to resolve the codes to meaningful names” … Feel free to delete this section if you’re confident.)
+I am unsure of the most interesting and efficient way to describe all of this data at once.
