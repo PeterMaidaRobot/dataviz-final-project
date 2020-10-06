@@ -45,3 +45,25 @@ On the bottom of this sketch, we can see donut chart breakdowns across various g
 ## Open Questions
 
 I am unsure of the most interesting and efficient way to describe all of this data at once.
+
+
+## Interactions Ideas
+
+Potential interactions can inculde:
+* A menu on the stacked line chart to filter by the different types of (suicide, firearm, alcohol).
+* One pie graph that can be broken into smaller pie graphs with a different pie graph showing death type for each demographic (sex, ethnicity, age-group).
+* Hovering over one demographic will highlight it in other visualizations.
+* Hovering a point in time on the stacked line graph will show a breakdown of the demographics for those deaths, similar to the streamgraph example in the Effective Visualizations video.
+
+
+## Schedule of Deliverables
+
+* Create stacked line graph for the number of deaths on the y axis and time on the x axis. Stacked lines will be type of death. (4 hours, 10/12)
+* Create menu for stacked line graph that filters out different types of deaths. (2 hours, 10/16)
+* Create menu for stacked line graph that filters out different types of demographics (sex, ethinicity, age-group). (3 hours, 10/20)
+* Create pie graph of the data. (2 hours, 10/24)
+* Create menu for pie graph that will filter the current pie graph by demographic. (2 hours, 10/26)
+* Create breakdown of pie chart into smaller pie charts by demographics so there are multiple pie graphs. (6 hours, 10/26)
+* Add hovering visualizations that align the stacked line graph to the pie graphs. (4 hours, 10/30)
+
+Note times are rough, I have little knowledge on how difficult working with D3 and React might be.
