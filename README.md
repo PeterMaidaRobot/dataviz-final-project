@@ -28,9 +28,9 @@ The following tasks and questions will drive the visualization and interaction d
  * What ethnicities have the highest suicide rates?
  * What ages have the highest firearm deaths?
  * What ethnicities have the highest firearm deaths?
- * What ages have the highest alchol-related deaths?
- * What ethnicities have the highest alchol-related deaths?
- * How does sex relate to the type of death (firearm, alchol, suicide)?
+ * What ages have the highest alcohol-related deaths?
+ * What ethnicities have the highest alcohol-related deaths?
+ * How does sex relate to the type of death (firearm, alcohol, suicide)?
  * How do these trends change over time? Do death rates go up or down for certain groups?
 
 
@@ -49,7 +49,7 @@ I am unsure of the most interesting and efficient way to describe all of this da
 
 ## Interactions Ideas
 
-Potential interactions can inculde:
+Potential interactions can include:
 * A menu on the stacked line chart to filter by the different types of (suicide, firearm, alcohol).
 * One pie graph that can be broken into smaller pie graphs with a different pie graph showing death type for each demographic (sex, ethnicity, age-group).
 * Hovering over one demographic will highlight it in other visualizations.
@@ -60,7 +60,7 @@ Potential interactions can inculde:
 
 * Create stacked line graph for the number of deaths on the y axis and time on the x axis. Stacked lines will be type of death. (4 hours, 10/12)
 * Create menu for stacked line graph that filters out different types of deaths. (2 hours, 10/16)
-* Create menu for stacked line graph that filters out different types of demographics (sex, ethinicity, age-group). (3 hours, 10/20)
+* Create menu for stacked line graph that filters out different types of demographics (sex, ethnicity, age-group). (3 hours, 10/20)
 * Create pie graph of the data. (2 hours, 10/24)
 * Create menu for pie graph that will filter the current pie graph by demographic. (2 hours, 10/26)
 * Create breakdown of pie chart into smaller pie charts by demographics so there are multiple pie graphs. (6 hours, 10/26)
