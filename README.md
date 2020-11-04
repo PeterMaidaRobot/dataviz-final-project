@@ -64,9 +64,15 @@ This is the start of the pie chart breakdown I was driving towards. The label fo
 [<img width="957" alt="Screen Shot 2020-11-04 at 1 51 04 AM" src="https://user-images.githubusercontent.com/23406389/98078582-58b61400-1e40-11eb-8a5e-fc43305f22b0.png">](https://vizhub.com/PeterMaidaRobot/7d7cb1448b214c33bf8dac2ffac183f0)
 
 
+## Challenges
+
+One of my challenges was finding documentation for the Vega-Lite-Api. Another challenge was React, D3, and the newest Javascript version at the same time. Sometimes I was unsure which framework the code I was confused at vieweing was from.
+
+
+
 ## Open Questions
 
-I am unsure of the most interesting and efficient way to describe all of this data at once.
+I am still unsure of the most interesting and efficient way to describe all of this data at once.
 
 
 ## Interactions Ideas
