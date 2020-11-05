@@ -6,7 +6,7 @@ This data shows the number of deaths by suicide, firearms, and alcohol based on 
 
 Source:
 Data World
-[Suicide Deaths by Age, Race, and Sex](https://data.world/healthdatany/j6fz-a4ta/workspace/file?filename=vital-statistics-suicide-deaths-by-age-group-race-ethnicity-resident-county-region-and-gender-beginn-1.csv)
+[Different Deaths by Age, Race, and Sex](https://data.world/healthdatany/j6fz-a4ta/workspace/file?filename=vital-statistics-suicide-deaths-by-age-group-race-ethnicity-resident-county-region-and-gender-beginn-1.csv)
 
 
 ## Questions & Tasks
